@@ -1,0 +1,721 @@
+[
+  {
+    "name": "hrm_admin",
+    "url": "/hrm/admin",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin.png"
+  },
+  {
+    "name": "hrm_admin_asesor",
+    "url": "/hrm/admin/asesor",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_asesor.png"
+  },
+  {
+    "name": "hrm_admin_asesor-assign",
+    "url": "/hrm/admin/asesor-assign",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_asesor-assign.png"
+  },
+  {
+    "name": "hrm_admin_asesor_search-users",
+    "url": "/hrm/admin/asesor/search-users",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_asesor_search-users.png"
+  },
+  {
+    "name": "hrm_admin_dosen",
+    "url": "/hrm/admin/dosen",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_dosen.png"
+  },
+  {
+    "name": "hrm_admin_jadwal-kinerja",
+    "url": "/hrm/admin/jadwal-kinerja",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_jadwal-kinerja.png"
+  },
+  {
+    "name": "hrm_admin_jadwal-kinerja_create",
+    "url": "/hrm/admin/jadwal-kinerja/create",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_jadwal-kinerja_create.png"
+  },
+  {
+    "name": "hrm_admin_jenis-tendik",
+    "url": "/hrm/admin/jenis-tendik",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_jenis-tendik.png"
+  },
+  {
+    "name": "hrm_admin_jenis-tendik_create",
+    "url": "/hrm/admin/jenis-tendik/create",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_jenis-tendik_create.png"
+  },
+  {
+    "name": "hrm_admin_kuesioner",
+    "url": "/hrm/admin/kuesioner",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_kuesioner.png"
+  },
+  {
+    "name": "hrm_admin_kuesioner-distribusi",
+    "url": "/hrm/admin/kuesioner-distribusi",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_kuesioner-distribusi.png"
+  },
+  {
+    "name": "hrm_admin_kuesioner_create",
+    "url": "/hrm/admin/kuesioner/create",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_kuesioner_create.png"
+  },
+  {
+    "name": "hrm_admin_penugasan-atasan",
+    "url": "/hrm/admin/penugasan-atasan",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_penugasan-atasan.png"
+  },
+  {
+    "name": "hrm_admin_presensi",
+    "url": "/hrm/admin/presensi",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_presensi.png"
+  },
+  {
+    "name": "hrm_admin_scoring-config",
+    "url": "/hrm/admin/scoring-config",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_scoring-config.png"
+  },
+  {
+    "name": "hrm_admin_tendik",
+    "url": "/hrm/admin/tendik",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_admin_tendik.png"
+  },
+  {
+    "name": "hrm_laporan",
+    "url": "/hrm/laporan",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_laporan.png"
+  },
+  {
+    "name": "hrm_laporan_dosen",
+    "url": "/hrm/laporan/dosen",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_laporan_dosen.png"
+  },
+  {
+    "name": "hrm_laporan_dosen_export",
+    "url": "/hrm/laporan/dosen/export",
+    "role": "developer",
+    "status": 200,
+    "errorType": "TIMEOUT/ERROR",
+    "layoutIssues": [],
+    "notes": [
+      "Error: page.goto: Download is starting\nCall log:\n  - navigating to \"https://sttw-dev.leolitgames.com/hrm/laporan/dosen/export\", waiting until \"networkidle\"\n"
+    ],
+    "screenshotPath": null
+  },
+  {
+    "name": "hrm_laporan_dosen_export-pdf",
+    "url": "/hrm/laporan/dosen/export-pdf",
+    "role": "developer",
+    "status": 200,
+    "errorType": "TIMEOUT/ERROR",
+    "layoutIssues": [],
+    "notes": [
+      "Error: page.goto: Download is starting\nCall log:\n  - navigating to \"https://sttw-dev.leolitgames.com/hrm/laporan/dosen/export-pdf\", waiting until \"networkidle\"\n"
+    ],
+    "screenshotPath": null
+  },
+  {
+    "name": "hrm_laporan_tendik",
+    "url": "/hrm/laporan/tendik",
+    "role": "developer",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_laporan_tendik.png"
+  },
+  {
+    "name": "hrm_laporan_tendik_export",
+    "url": "/hrm/laporan/tendik/export",
+    "role": "developer",
+    "status": 200,
+    "errorType": "TIMEOUT/ERROR",
+    "layoutIssues": [],
+    "notes": [
+      "Error: page.goto: Download is starting\nCall log:\n  - navigating to \"https://sttw-dev.leolitgames.com/hrm/laporan/tendik/export\", waiting until \"networkidle\"\n"
+    ],
+    "screenshotPath": null
+  },
+  {
+    "name": "hrm_laporan_tendik_export-pdf",
+    "url": "/hrm/laporan/tendik/export-pdf",
+    "role": "developer",
+    "status": 200,
+    "errorType": "TIMEOUT/ERROR",
+    "layoutIssues": [],
+    "notes": [
+      "Error: page.goto: Download is starting\nCall log:\n  - navigating to \"https://sttw-dev.leolitgames.com/hrm/laporan/tendik/export-pdf\", waiting until \"networkidle\"\n"
+    ],
+    "screenshotPath": null
+  },
+  {
+    "name": "hrm_asesor",
+    "url": "/hrm/asesor",
+    "role": "asesor",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_asesor.png"
+  },
+  {
+    "name": "hrm_asesor_rekap",
+    "url": "/hrm/asesor/rekap",
+    "role": "asesor",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_asesor_rekap.png"
+  },
+  {
+    "name": "hrm_portal",
+    "url": "/hrm/portal",
+    "role": "dosen",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_bahan-ajar",
+    "url": "/hrm/portal/kinerja/bahan-ajar",
+    "role": "dosen",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_bahan-ajar.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_bahan-ajar_create",
+    "url": "/hrm/portal/kinerja/bahan-ajar/create",
+    "role": "dosen",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_bahan-ajar_create.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_bimbingan",
+    "url": "/hrm/portal/kinerja/bimbingan",
+    "role": "dosen",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_bimbingan.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_bimbingan_create",
+    "url": "/hrm/portal/kinerja/bimbingan/create",
+    "role": "dosen",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_bimbingan_create.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_penelitian",
+    "url": "/hrm/portal/kinerja/penelitian",
+    "role": "dosen",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_penelitian.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_pengabdian",
+    "url": "/hrm/portal/kinerja/pengabdian",
+    "role": "dosen",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_pengabdian.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_pengajaran",
+    "url": "/hrm/portal/kinerja/pengajaran",
+    "role": "dosen",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_pengajaran.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_penghargaan",
+    "url": "/hrm/portal/kinerja/penghargaan",
+    "role": "dosen",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_penghargaan.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_penghargaan_create",
+    "url": "/hrm/portal/kinerja/penghargaan/create",
+    "role": "dosen",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_penghargaan_create.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_pengujian",
+    "url": "/hrm/portal/kinerja/pengujian",
+    "role": "dosen",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_pengujian.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_pengujian_create",
+    "url": "/hrm/portal/kinerja/pengujian/create",
+    "role": "dosen",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_pengujian_create.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_penunjang",
+    "url": "/hrm/portal/kinerja/penunjang",
+    "role": "dosen",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_penunjang.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_penunjang_create",
+    "url": "/hrm/portal/kinerja/penunjang/create",
+    "role": "dosen",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_penunjang_create.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_tugas-tambahan",
+    "url": "/hrm/portal/kinerja/tugas-tambahan",
+    "role": "dosen",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_tugas-tambahan.png"
+  },
+  {
+    "name": "hrm_portal_kinerja_tugas-tambahan_create",
+    "url": "/hrm/portal/kinerja/tugas-tambahan/create",
+    "role": "dosen",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_kinerja_tugas-tambahan_create.png"
+  },
+  {
+    "name": "hrm_portal_laporan_ikd",
+    "url": "/hrm/portal/laporan/ikd",
+    "role": "dosen",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_laporan_ikd.png"
+  },
+  {
+    "name": "hrm_portal_laporan_kehadiran",
+    "url": "/hrm/portal/laporan/kehadiran",
+    "role": "dosen",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_laporan_kehadiran.png"
+  },
+  {
+    "name": "hrm_portal_laporan_lkd",
+    "url": "/hrm/portal/laporan/lkd",
+    "role": "dosen",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_laporan_lkd.png"
+  },
+  {
+    "name": "hrm_portal_laporan_skor",
+    "url": "/hrm/portal/laporan/skor",
+    "role": "dosen",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_laporan_skor.png"
+  },
+  {
+    "name": "hrm_portal_presensi-cico",
+    "url": "/hrm/portal/presensi-cico",
+    "role": "dosen",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_presensi-cico.png"
+  },
+  {
+    "name": "hrm_portal_profil",
+    "url": "/hrm/portal/profil",
+    "role": "dosen",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_portal_profil.png"
+  },
+  {
+    "name": "hrm_tendik",
+    "url": "/hrm/tendik",
+    "role": "tendik",
+    "status": 200,
+    "errorType": null,
+    "layoutIssues": [
+      "Buttons may exist in navbar"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_tendik.png"
+  },
+  {
+    "name": "hrm_tendik_kinerja_pelayanan",
+    "url": "/hrm/tendik/kinerja/pelayanan",
+    "role": "tendik",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_tendik_kinerja_pelayanan.png"
+  },
+  {
+    "name": "hrm_tendik_kinerja_pelayanan_create",
+    "url": "/hrm/tendik/kinerja/pelayanan/create",
+    "role": "tendik",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_tendik_kinerja_pelayanan_create.png"
+  },
+  {
+    "name": "hrm_tendik_kinerja_penghargaan",
+    "url": "/hrm/tendik/kinerja/penghargaan",
+    "role": "tendik",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_tendik_kinerja_penghargaan.png"
+  },
+  {
+    "name": "hrm_tendik_kinerja_penghargaan_create",
+    "url": "/hrm/tendik/kinerja/penghargaan/create",
+    "role": "tendik",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_tendik_kinerja_penghargaan_create.png"
+  },
+  {
+    "name": "hrm_tendik_kinerja_penunjang",
+    "url": "/hrm/tendik/kinerja/penunjang",
+    "role": "tendik",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_tendik_kinerja_penunjang.png"
+  },
+  {
+    "name": "hrm_tendik_kinerja_penunjang_create",
+    "url": "/hrm/tendik/kinerja/penunjang/create",
+    "role": "tendik",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_tendik_kinerja_penunjang_create.png"
+  },
+  {
+    "name": "hrm_tendik_kinerja_tugas-tambahan",
+    "url": "/hrm/tendik/kinerja/tugas-tambahan",
+    "role": "tendik",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_tendik_kinerja_tugas-tambahan.png"
+  },
+  {
+    "name": "hrm_tendik_kinerja_tugas-tambahan_create",
+    "url": "/hrm/tendik/kinerja/tugas-tambahan/create",
+    "role": "tendik",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_tendik_kinerja_tugas-tambahan_create.png"
+  },
+  {
+    "name": "hrm_tendik_presensi-cico",
+    "url": "/hrm/tendik/presensi-cico",
+    "role": "tendik",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_tendik_presensi-cico.png"
+  },
+  {
+    "name": "hrm_tendik_profil",
+    "url": "/hrm/tendik/profil",
+    "role": "tendik",
+    "status": 403,
+    "errorType": null,
+    "layoutIssues": [
+      "No breadcrumbs found",
+      "No sidebar found"
+    ],
+    "notes": [],
+    "screenshotPath": "hrm_tendik_profil.png"
+  }
+]

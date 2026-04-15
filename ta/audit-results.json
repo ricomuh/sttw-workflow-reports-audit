@@ -1,0 +1,292 @@
+[
+  {
+    "uri": "siska/ta/proposals",
+    "name": "siska.ta.proposals.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_proposals.png"
+  },
+  {
+    "uri": "siska/ta/proposals/create",
+    "name": "siska.ta.proposals.create",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_proposals_create.png"
+  },
+  {
+    "uri": "siska/ta/logbooks",
+    "name": "siska.ta.logbooks.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_logbooks.png"
+  },
+  {
+    "uri": "siska/ta/logbooks/create",
+    "name": "siska.ta.logbooks.create",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_logbooks_create.png"
+  },
+  {
+    "uri": "siska/ta/sidangs",
+    "name": "siska.ta.sidangs.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_sidangs.png"
+  },
+  {
+    "uri": "siska/ta/sidangs/create",
+    "name": "siska.ta.sidangs.create",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_sidangs_create.png"
+  },
+  {
+    "uri": "siska/ta/dosen/bimbingan",
+    "name": "siska.ta.dosen.bimbingan.index",
+    "role": "dosen",
+    "email": "dosen@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_dosen_bimbingan.png"
+  },
+  {
+    "uri": "siska/ta/dosen/logbooks",
+    "name": "siska.ta.dosen.logbooks.index",
+    "role": "dosen",
+    "email": "dosen@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_dosen_logbooks.png"
+  },
+  {
+    "uri": "siska/ta/dosen/sidangs",
+    "name": "siska.ta.dosen.sidangs.index",
+    "role": "dosen",
+    "email": "dosen@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_dosen_sidangs.png"
+  },
+  {
+    "uri": "siska/ta/dosen/proposals",
+    "name": "siska.ta.dosen.proposals.index",
+    "role": "dosen",
+    "email": "dosen@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_dosen_proposals.png"
+  },
+  {
+    "uri": "siska/ta/proposals-admin",
+    "name": "siska.ta.proposals.admin-index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_proposals-admin.png"
+  },
+  {
+    "uri": "siska/ta/admin/ujians",
+    "name": "siska.ta.admin.ujians.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_admin_ujians.png"
+  },
+  {
+    "uri": "siska/ta/unggah-mandiri-admin",
+    "name": "siska.ta.unggah-mandiri.admin-index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_unggah-mandiri-admin.png"
+  },
+  {
+    "uri": "siska/ta/monitoring",
+    "name": "siska.ta.monitoring.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_monitoring.png"
+  },
+  {
+    "uri": "siska/ta/rekap-dosen",
+    "name": "siska.ta.rekap-dosen",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 500,
+    "errors": [
+      {
+        "type": "HTTP_500",
+        "msg": "HTTP 500 Server Error"
+      },
+      {
+        "type": "LARAVEL_ERROR",
+        "msg": "Laravel error page detected"
+      }
+    ],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": true,
+    "screenshot": "siska_ta_rekap-dosen.png"
+  },
+  {
+    "uri": "siska/ta/unggah-mandiri",
+    "name": "siska.ta.unggah-mandiri.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_ta_unggah-mandiri.png"
+  }
+]

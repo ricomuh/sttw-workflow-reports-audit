@@ -1,0 +1,597 @@
+[
+  {
+    "uri": "p3m/admin/dashboard",
+    "name": "p3m.admin.dashboard",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_dashboard.png"
+  },
+  {
+    "uri": "p3m/admin/setting",
+    "name": "p3m.admin.setting.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_setting.png"
+  },
+  {
+    "uri": "p3m/admin/aktivasi",
+    "name": "p3m.admin.aktivasi.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_aktivasi.png"
+  },
+  {
+    "uri": "p3m/admin/aktivasi/create",
+    "name": "p3m.admin.aktivasi.create",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_aktivasi_create.png"
+  },
+  {
+    "uri": "p3m/admin/bidang-fokus",
+    "name": "p3m.admin.bidang-fokus.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_bidang-fokus.png"
+  },
+  {
+    "uri": "p3m/admin/bidang-fokus/create",
+    "name": "p3m.admin.bidang-fokus.create",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_bidang-fokus_create.png"
+  },
+  {
+    "uri": "p3m/admin/rumpun-ilmu",
+    "name": "p3m.admin.rumpun-ilmu.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_rumpun-ilmu.png"
+  },
+  {
+    "uri": "p3m/admin/rumpun-ilmu/create",
+    "name": "p3m.admin.rumpun-ilmu.create",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_rumpun-ilmu_create.png"
+  },
+  {
+    "uri": "p3m/admin/kriteria-penilaian",
+    "name": "p3m.admin.kriteria-penilaian.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_kriteria-penilaian.png"
+  },
+  {
+    "uri": "p3m/admin/kriteria-penilaian/create",
+    "name": "p3m.admin.kriteria-penilaian.create",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_kriteria-penilaian_create.png"
+  },
+  {
+    "uri": "p3m/admin/bidang-mitra",
+    "name": "p3m.admin.bidang-mitra.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_bidang-mitra.png"
+  },
+  {
+    "uri": "p3m/admin/bidang-mitra/create",
+    "name": "p3m.admin.bidang-mitra.create",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_bidang-mitra_create.png"
+  },
+  {
+    "uri": "p3m/admin/panduan",
+    "name": "p3m.admin.panduan.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_panduan.png"
+  },
+  {
+    "uri": "p3m/admin/panduan/create",
+    "name": "p3m.admin.panduan.create",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_panduan_create.png"
+  },
+  {
+    "uri": "p3m/admin/informasi",
+    "name": "p3m.admin.informasi.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_informasi.png"
+  },
+  {
+    "uri": "p3m/admin/informasi/create",
+    "name": "p3m.admin.informasi.create",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_informasi_create.png"
+  },
+  {
+    "uri": "p3m/admin/arsip-penelitian",
+    "name": "p3m.admin.arsip-penelitian.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_arsip-penelitian.png"
+  },
+  {
+    "uri": "p3m/admin/arsip-penelitian/create",
+    "name": "p3m.admin.arsip-penelitian.create",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_arsip-penelitian_create.png"
+  },
+  {
+    "uri": "p3m/admin/arsip-pengabdian",
+    "name": "p3m.admin.arsip-pengabdian.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_arsip-pengabdian.png"
+  },
+  {
+    "uri": "p3m/admin/arsip-pengabdian/create",
+    "name": "p3m.admin.arsip-pengabdian.create",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_arsip-pengabdian_create.png"
+  },
+  {
+    "uri": "p3m/admin/arsip-dosen",
+    "name": "p3m.admin.arsip-dosen.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_arsip-dosen.png"
+  },
+  {
+    "uri": "p3m/admin/arsip-katalog",
+    "name": "p3m.admin.arsip-katalog.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_arsip-katalog.png"
+  },
+  {
+    "uri": "p3m/admin/arsip-publikasi",
+    "name": "p3m.admin.arsip-publikasi.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_arsip-publikasi.png"
+  },
+  {
+    "uri": "p3m/admin/arsip-hki",
+    "name": "p3m.admin.arsip-hki.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_arsip-hki.png"
+  },
+  {
+    "uri": "p3m/admin/luaran",
+    "name": "p3m.admin.luaran.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_admin_luaran.png"
+  },
+  {
+    "uri": "p3m/dosen/dashboard",
+    "name": "p3m.dosen.dashboard",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_dosen_dashboard.png"
+  },
+  {
+    "uri": "p3m/dosen/katalog",
+    "name": "p3m.dosen.katalog.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_dosen_katalog.png"
+  },
+  {
+    "uri": "p3m/dosen/katalog/create",
+    "name": "p3m.dosen.katalog.create",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_dosen_katalog_create.png"
+  },
+  {
+    "uri": "p3m/dosen/publikasi",
+    "name": "p3m.dosen.publikasi.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_dosen_publikasi.png"
+  },
+  {
+    "uri": "p3m/dosen/publikasi/create",
+    "name": "p3m.dosen.publikasi.create",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_dosen_publikasi_create.png"
+  },
+  {
+    "uri": "p3m/dosen/hki",
+    "name": "p3m.dosen.hki.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_dosen_hki.png"
+  },
+  {
+    "uri": "p3m/dosen/hki/create",
+    "name": "p3m.dosen.hki.create",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_dosen_hki_create.png"
+  },
+  {
+    "uri": "p3m/dosen/panduan",
+    "name": "p3m.dosen.panduan.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_dosen_panduan.png"
+  },
+  {
+    "uri": "p3m/dosen/repositori",
+    "name": "p3m.dosen.repositori.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_dosen_repositori.png"
+  },
+  {
+    "uri": "p3m/dosen/repositori/create",
+    "name": "p3m.dosen.repositori.create",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "p3m_dosen_repositori_create.png"
+  }
+]

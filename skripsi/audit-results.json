@@ -1,0 +1,292 @@
+[
+  {
+    "uri": "siska/skripsi/proposals",
+    "name": "siska.skripsi.proposals.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_proposals.png"
+  },
+  {
+    "uri": "siska/skripsi/proposals/create",
+    "name": "siska.skripsi.proposals.create",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_proposals_create.png"
+  },
+  {
+    "uri": "siska/skripsi/logbooks",
+    "name": "siska.skripsi.logbooks.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_logbooks.png"
+  },
+  {
+    "uri": "siska/skripsi/logbooks/create",
+    "name": "siska.skripsi.logbooks.create",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_logbooks_create.png"
+  },
+  {
+    "uri": "siska/skripsi/sidangs",
+    "name": "siska.skripsi.sidangs.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_sidangs.png"
+  },
+  {
+    "uri": "siska/skripsi/sidangs/create",
+    "name": "siska.skripsi.sidangs.create",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_sidangs_create.png"
+  },
+  {
+    "uri": "siska/skripsi/dosen/bimbingan",
+    "name": "siska.skripsi.dosen.bimbingan.index",
+    "role": "dosen",
+    "email": "dosen@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_dosen_bimbingan.png"
+  },
+  {
+    "uri": "siska/skripsi/dosen/logbooks",
+    "name": "siska.skripsi.dosen.logbooks.index",
+    "role": "dosen",
+    "email": "dosen@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_dosen_logbooks.png"
+  },
+  {
+    "uri": "siska/skripsi/dosen/sidangs",
+    "name": "siska.skripsi.dosen.sidangs.index",
+    "role": "dosen",
+    "email": "dosen@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_dosen_sidangs.png"
+  },
+  {
+    "uri": "siska/skripsi/dosen/proposals",
+    "name": "siska.skripsi.dosen.proposals.index",
+    "role": "dosen",
+    "email": "dosen@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_dosen_proposals.png"
+  },
+  {
+    "uri": "siska/skripsi/proposals-admin",
+    "name": "siska.skripsi.proposals.admin-index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_proposals-admin.png"
+  },
+  {
+    "uri": "siska/skripsi/admin/ujians",
+    "name": "siska.skripsi.admin.ujians.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_admin_ujians.png"
+  },
+  {
+    "uri": "siska/skripsi/unggah-mandiri-admin",
+    "name": "siska.skripsi.unggah-mandiri.admin-index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_unggah-mandiri-admin.png"
+  },
+  {
+    "uri": "siska/skripsi/monitoring",
+    "name": "siska.skripsi.monitoring.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_monitoring.png"
+  },
+  {
+    "uri": "siska/skripsi/rekap-dosen",
+    "name": "siska.skripsi.rekap-dosen",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 500,
+    "errors": [
+      {
+        "type": "HTTP_500",
+        "msg": "HTTP 500 Server Error"
+      },
+      {
+        "type": "LARAVEL_ERROR",
+        "msg": "Laravel error page detected"
+      }
+    ],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": true,
+    "screenshot": "siska_skripsi_rekap-dosen.png"
+  },
+  {
+    "uri": "siska/skripsi/unggah-mandiri",
+    "name": "siska.skripsi.unggah-mandiri.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_skripsi_unggah-mandiri.png"
+  }
+]

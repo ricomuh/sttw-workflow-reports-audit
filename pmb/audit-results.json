@@ -1,0 +1,342 @@
+[
+  {
+    "uri": "pmb/register",
+    "name": "pmb.register",
+    "role": "public",
+    "email": null,
+    "status": 0,
+    "errors": [
+      {
+        "type": "NAV_ERROR",
+        "msg": "Cannot read properties of null (reading 'goto')"
+      }
+    ],
+    "layoutIssues": [],
+    "dataCheck": {},
+    "hasErrors": true,
+    "screenshot": null
+  },
+  {
+    "uri": "pmb/login",
+    "name": "pmb.login",
+    "role": "public",
+    "email": null,
+    "status": 0,
+    "errors": [
+      {
+        "type": "NAV_ERROR",
+        "msg": "Cannot read properties of null (reading 'goto')"
+      }
+    ],
+    "layoutIssues": [],
+    "dataCheck": {},
+    "hasErrors": true,
+    "screenshot": null
+  },
+  {
+    "uri": "pmb/dashboard",
+    "name": "pmb.dashboard",
+    "role": "public",
+    "email": null,
+    "status": 0,
+    "errors": [
+      {
+        "type": "NAV_ERROR",
+        "msg": "Cannot read properties of null (reading 'goto')"
+      }
+    ],
+    "layoutIssues": [],
+    "dataCheck": {},
+    "hasErrors": true,
+    "screenshot": null
+  },
+  {
+    "uri": "pmb/ujian",
+    "name": "pmb.ujian.show",
+    "role": "public",
+    "email": null,
+    "status": 0,
+    "errors": [
+      {
+        "type": "NAV_ERROR",
+        "msg": "Cannot read properties of null (reading 'goto')"
+      }
+    ],
+    "layoutIssues": [],
+    "dataCheck": {},
+    "hasErrors": true,
+    "screenshot": null
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb",
+    "name": "siska.kemahasiswaan.pmb.dashboard",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/pendaftar",
+    "name": "siska.kemahasiswaan.pmb.pendaftar.index",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_pendaftar.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/approval/berkas",
+    "name": "siska.kemahasiswaan.pmb.approval.berkas",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_approval_berkas.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/approval/keuangan",
+    "name": "siska.kemahasiswaan.pmb.approval.keuangan",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_approval_keuangan.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/approval/tpa",
+    "name": "siska.kemahasiswaan.pmb.approval.tpa",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_approval_tpa.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/bank-soal",
+    "name": "siska.kemahasiswaan.pmb.bank-soal.index",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_bank-soal.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/bank-soal/create",
+    "name": "siska.kemahasiswaan.pmb.bank-soal.create",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_bank-soal_create.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/konversi",
+    "name": "siska.kemahasiswaan.pmb.konversi.index",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_konversi.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/setting",
+    "name": "siska.kemahasiswaan.pmb.setting.index",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_setting.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/setting/create",
+    "name": "siska.kemahasiswaan.pmb.setting.create",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_setting_create.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/jalur-pendaftaran",
+    "name": "siska.kemahasiswaan.pmb.jalur-pendaftaran.index",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_jalur-pendaftaran.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/jalur-pendaftaran/create",
+    "name": "siska.kemahasiswaan.pmb.jalur-pendaftaran.create",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_jalur-pendaftaran_create.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/potongan",
+    "name": "siska.kemahasiswaan.pmb.potongan.index",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_potongan.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/potongan/create",
+    "name": "siska.kemahasiswaan.pmb.potongan.create",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_potongan_create.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/kuota-prodi",
+    "name": "siska.kemahasiswaan.pmb.kuota-prodi.index",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_kuota-prodi.png"
+  },
+  {
+    "uri": "siska/kemahasiswaan/pmb/kuota-prodi/create",
+    "name": "siska.kemahasiswaan.pmb.kuota-prodi.create",
+    "role": "admin-mhs",
+    "email": "admin-mhs@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kemahasiswaan_pmb_kuota-prodi_create.png"
+  }
+]

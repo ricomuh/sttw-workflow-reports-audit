@@ -1,0 +1,976 @@
+[
+  {
+    "uri": "lpm/admin",
+    "name": "lpm.admin.dashboard",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin.png"
+  },
+  {
+    "uri": "lpm/admin/profil-pt",
+    "name": "lpm.admin.profil-pt.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_profil-pt.png"
+  },
+  {
+    "uri": "lpm/admin/profil-pt/edit",
+    "name": "lpm.admin.profil-pt.edit",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_profil-pt_edit.png"
+  },
+  {
+    "uri": "lpm/admin/prodi",
+    "name": "lpm.admin.prodi.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_prodi.png"
+  },
+  {
+    "uri": "lpm/admin/kebijakan",
+    "name": "lpm.admin.kebijakan.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_kebijakan.png"
+  },
+  {
+    "uri": "lpm/admin/kebijakan/create",
+    "name": "lpm.admin.kebijakan.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_kebijakan_create.png"
+  },
+  {
+    "uri": "lpm/admin/standar-institusi",
+    "name": "lpm.admin.standar-institusi.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_standar-institusi.png"
+  },
+  {
+    "uri": "lpm/admin/standar-institusi/create",
+    "name": "lpm.admin.standar-institusi.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_standar-institusi_create.png"
+  },
+  {
+    "uri": "lpm/admin/standar-lain",
+    "name": "lpm.admin.standar-lain.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_standar-lain.png"
+  },
+  {
+    "uri": "lpm/admin/standar-lain/create",
+    "name": "lpm.admin.standar-lain.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_standar-lain_create.png"
+  },
+  {
+    "uri": "lpm/admin/standar-pt",
+    "name": "lpm.admin.standar-pt.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_standar-pt.png"
+  },
+  {
+    "uri": "lpm/admin/dokumen-spmi",
+    "name": "lpm.admin.dokumen-spmi.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_dokumen-spmi.png"
+  },
+  {
+    "uri": "lpm/admin/dokumen-spmi/create",
+    "name": "lpm.admin.dokumen-spmi.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_dokumen-spmi_create.png"
+  },
+  {
+    "uri": "lpm/admin/formulir",
+    "name": "lpm.admin.formulir.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_formulir.png"
+  },
+  {
+    "uri": "lpm/admin/formulir/create",
+    "name": "lpm.admin.formulir.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_formulir_create.png"
+  },
+  {
+    "uri": "lpm/admin/pelaksanaan",
+    "name": "lpm.admin.pelaksanaan.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_pelaksanaan.png"
+  },
+  {
+    "uri": "lpm/admin/pelaksanaan/create",
+    "name": "lpm.admin.pelaksanaan.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_pelaksanaan_create.png"
+  },
+  {
+    "uri": "lpm/admin/evaluasi",
+    "name": "lpm.admin.evaluasi.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_evaluasi.png"
+  },
+  {
+    "uri": "lpm/admin/evaluasi/create",
+    "name": "lpm.admin.evaluasi.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_evaluasi_create.png"
+  },
+  {
+    "uri": "lpm/admin/pengendalian",
+    "name": "lpm.admin.pengendalian.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_pengendalian.png"
+  },
+  {
+    "uri": "lpm/admin/pengendalian/create",
+    "name": "lpm.admin.pengendalian.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_pengendalian_create.png"
+  },
+  {
+    "uri": "lpm/admin/peningkatan",
+    "name": "lpm.admin.peningkatan.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_peningkatan.png"
+  },
+  {
+    "uri": "lpm/admin/peningkatan/create",
+    "name": "lpm.admin.peningkatan.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_peningkatan_create.png"
+  },
+  {
+    "uri": "lpm/admin/ami-jadwal",
+    "name": "lpm.admin.ami-jadwal.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_ami-jadwal.png"
+  },
+  {
+    "uri": "lpm/admin/ami-jadwal/create",
+    "name": "lpm.admin.ami-jadwal.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_ami-jadwal_create.png"
+  },
+  {
+    "uri": "lpm/admin/ami-formulir-template",
+    "name": "lpm.admin.ami-formulir-template.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_ami-formulir-template.png"
+  },
+  {
+    "uri": "lpm/admin/ami-formulir-template/create",
+    "name": "lpm.admin.ami-formulir-template.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_ami-formulir-template_create.png"
+  },
+  {
+    "uri": "lpm/admin/ami-temuan",
+    "name": "lpm.admin.ami-temuan.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_ami-temuan.png"
+  },
+  {
+    "uri": "lpm/admin/dokumen",
+    "name": "lpm.admin.dokumen.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_dokumen.png"
+  },
+  {
+    "uri": "lpm/admin/dokumen/create",
+    "name": "lpm.admin.dokumen.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_dokumen_create.png"
+  },
+  {
+    "uri": "lpm/admin/sk-akreditasi",
+    "name": "lpm.admin.sk-akreditasi.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_sk-akreditasi.png"
+  },
+  {
+    "uri": "lpm/admin/sk-akreditasi/create",
+    "name": "lpm.admin.sk-akreditasi.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_sk-akreditasi_create.png"
+  },
+  {
+    "uri": "lpm/admin/sk-pendirian",
+    "name": "lpm.admin.sk-pendirian.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_sk-pendirian.png"
+  },
+  {
+    "uri": "lpm/admin/sk-pendirian/create",
+    "name": "lpm.admin.sk-pendirian.create",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_sk-pendirian_create.png"
+  },
+  {
+    "uri": "lpm/admin/setting",
+    "name": "lpm.admin.setting.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_admin_setting.png"
+  },
+  {
+    "uri": "lpm/auditor",
+    "name": "lpm.auditor.dashboard",
+    "role": "auditor",
+    "email": "auditor@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_auditor.png"
+  },
+  {
+    "uri": "lpm/auditor/penugasan",
+    "name": "lpm.auditor.penugasan.index",
+    "role": "auditor",
+    "email": "auditor@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_auditor_penugasan.png"
+  },
+  {
+    "uri": "lpm/auditor/temuan",
+    "name": "lpm.auditor.temuan.index",
+    "role": "auditor",
+    "email": "auditor@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_auditor_temuan.png"
+  },
+  {
+    "uri": "lpm/auditor/temuan/create",
+    "name": "lpm.auditor.temuan.create",
+    "role": "auditor",
+    "email": "auditor@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_auditor_temuan_create.png"
+  },
+  {
+    "uri": "lpm/kaprodi",
+    "name": "lpm.kaprodi.dashboard",
+    "role": "kaprodi",
+    "email": "kaprodi@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_kaprodi.png"
+  },
+  {
+    "uri": "lpm/kaprodi/standar",
+    "name": "lpm.kaprodi.standar.index",
+    "role": "kaprodi",
+    "email": "kaprodi@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_kaprodi_standar.png"
+  },
+  {
+    "uri": "lpm/kaprodi/temuan",
+    "name": "lpm.kaprodi.temuan.index",
+    "role": "kaprodi",
+    "email": "kaprodi@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_kaprodi_temuan.png"
+  },
+  {
+    "uri": "lpm/portal",
+    "name": "lpm.portal.home",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_portal.png"
+  },
+  {
+    "uri": "lpm/portal/profil",
+    "name": "lpm.portal.profil",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_portal_profil.png"
+  },
+  {
+    "uri": "lpm/portal/prodi",
+    "name": "lpm.portal.prodi",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_portal_prodi.png"
+  },
+  {
+    "uri": "lpm/portal/penetapan",
+    "name": "lpm.portal.penetapan",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_portal_penetapan.png"
+  },
+  {
+    "uri": "lpm/portal/pelaksanaan",
+    "name": "lpm.portal.pelaksanaan",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_portal_pelaksanaan.png"
+  },
+  {
+    "uri": "lpm/portal/evaluasi",
+    "name": "lpm.portal.evaluasi",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_portal_evaluasi.png"
+  },
+  {
+    "uri": "lpm/portal/pengendalian",
+    "name": "lpm.portal.pengendalian",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_portal_pengendalian.png"
+  },
+  {
+    "uri": "lpm/portal/peningkatan",
+    "name": "lpm.portal.peningkatan",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_portal_peningkatan.png"
+  },
+  {
+    "uri": "lpm/portal/dokumen",
+    "name": "lpm.portal.dokumen.index",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_portal_dokumen.png"
+  },
+  {
+    "uri": "lpm/portal/akreditasi",
+    "name": "lpm.portal.akreditasi",
+    "role": "admin-lpm",
+    "email": "admin-lpm@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "lpm_portal_akreditasi.png"
+  }
+]

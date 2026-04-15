@@ -1,0 +1,258 @@
+[
+  {
+    "uri": "siska/kkn/periode",
+    "name": "siska.kkn.periode.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kkn_periode.png"
+  },
+  {
+    "uri": "siska/kkn/periode/create",
+    "name": "siska.kkn.periode.create",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kkn_periode_create.png"
+  },
+  {
+    "uri": "siska/kkn/peserta",
+    "name": "siska.kkn.peserta.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 500,
+    "errors": [
+      {
+        "type": "HTTP_500",
+        "msg": "HTTP 500 Server Error"
+      },
+      {
+        "type": "LARAVEL_ERROR",
+        "msg": "Laravel error page detected"
+      }
+    ],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": true,
+    "screenshot": "siska_kkn_peserta.png"
+  },
+  {
+    "uri": "siska/kkn/seminar",
+    "name": "siska.kkn.seminar.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kkn_seminar.png"
+  },
+  {
+    "uri": "siska/kkn/monitoring",
+    "name": "siska.kkn.monitoring.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kkn_monitoring.png"
+  },
+  {
+    "uri": "siska/kkn/rekap-dosen",
+    "name": "siska.kkn.rekap-dosen",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kkn_rekap-dosen.png"
+  },
+  {
+    "uri": "siska/kkn/unggah-mandiri-admin",
+    "name": "siska.kkn.unggah-mandiri.admin-index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kkn_unggah-mandiri-admin.png"
+  },
+  {
+    "uri": "siska/kkn/dpl/logbooks",
+    "name": "siska.kkn.dpl.logbooks",
+    "role": "dosen",
+    "email": "dosen@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kkn_dpl_logbooks.png"
+  },
+  {
+    "uri": "siska/kkn/dpl/participants",
+    "name": "siska.kkn.dpl.participants",
+    "role": "dosen",
+    "email": "dosen@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kkn_dpl_participants.png"
+  },
+  {
+    "uri": "siska/kkn/dpl/nilai",
+    "name": "siska.kkn.dpl.nilai",
+    "role": "dosen",
+    "email": "dosen@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kkn_dpl_nilai.png"
+  },
+  {
+    "uri": "siska/kkn",
+    "name": "siska.kkn.mahasiswa.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kkn.png"
+  },
+  {
+    "uri": "siska/kkn/mahasiswa/logbook",
+    "name": "siska.kkn.mahasiswa.logbook.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kkn_mahasiswa_logbook.png"
+  },
+  {
+    "uri": "siska/kkn/mahasiswa/logbook/create",
+    "name": "siska.kkn.mahasiswa.logbook.create",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kkn_mahasiswa_logbook_create.png"
+  },
+  {
+    "uri": "siska/kkn/unggah-mandiri",
+    "name": "siska.kkn.unggah-mandiri.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_kkn_unggah-mandiri.png"
+  }
+]

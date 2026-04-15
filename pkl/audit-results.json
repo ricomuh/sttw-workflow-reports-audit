@@ -1,0 +1,203 @@
+[
+  {
+    "uri": "siska/pkl/registrations",
+    "name": "siska.pkl.registrations.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_pkl_registrations.png"
+  },
+  {
+    "uri": "siska/pkl/registrations/create",
+    "name": "siska.pkl.registrations.create",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_pkl_registrations_create.png"
+  },
+  {
+    "uri": "siska/pkl/monitoring",
+    "name": "siska.pkl.monitoring.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_pkl_monitoring.png"
+  },
+  {
+    "uri": "siska/pkl/rekap-dosen",
+    "name": "siska.pkl.rekap-dosen",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_pkl_rekap-dosen.png"
+  },
+  {
+    "uri": "siska/pkl/logbooks",
+    "name": "siska.pkl.logbooks.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_pkl_logbooks.png"
+  },
+  {
+    "uri": "siska/pkl/logbooks/create",
+    "name": "siska.pkl.logbooks.create",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_pkl_logbooks_create.png"
+  },
+  {
+    "uri": "siska/pkl/laporans",
+    "name": "siska.pkl.laporans.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_pkl_laporans.png"
+  },
+  {
+    "uri": "siska/pkl/sidangs",
+    "name": "siska.pkl.sidangs.index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_pkl_sidangs.png"
+  },
+  {
+    "uri": "siska/pkl/sidangs/create",
+    "name": "siska.pkl.sidangs.create",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 404,
+    "errors": [
+      {
+        "type": "HTTP_404",
+        "msg": "HTTP 404 Not Found"
+      }
+    ],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": true,
+    "screenshot": "siska_pkl_sidangs_create.png"
+  },
+  {
+    "uri": "siska/pkl/unggah-mandiri",
+    "name": "siska.pkl.unggah-mandiri.index",
+    "role": "mahasiswa",
+    "email": "mahasiswa@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "siska_pkl_unggah-mandiri.png"
+  },
+  {
+    "uri": "siska/pkl/unggah-mandiri-admin",
+    "name": "siska.pkl.unggah-mandiri.admin-index",
+    "role": "admin",
+    "email": "admin@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "siska_pkl_unggah-mandiri-admin.png"
+  }
+]

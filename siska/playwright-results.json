@@ -1,0 +1,666 @@
+[
+  {
+    "name": "siska_dashboard",
+    "url": "/siska/dashboard",
+    "role": "admin",
+    "status": 500,
+    "error": "CRITICAL: HTTP 500 / Laravel Error: 500",
+    "screenshot": "siska_dashboard.png"
+  },
+  {
+    "name": "siska_kemahasiswaan_beasiswa",
+    "url": "/siska/kemahasiswaan/beasiswa",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kemahasiswaan_beasiswa.png"
+  },
+  {
+    "name": "siska_kemahasiswaan_dashboard",
+    "url": "/siska/kemahasiswaan/dashboard",
+    "role": "admin",
+    "status": 500,
+    "error": "CRITICAL: HTTP 500 / Laravel Error: 500",
+    "screenshot": "siska_kemahasiswaan_dashboard.png"
+  },
+  {
+    "name": "siska_kemahasiswaan_kegiatan-organisasi",
+    "url": "/siska/kemahasiswaan/kegiatan-organisasi",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kemahasiswaan_kegiatan-organisasi.png"
+  },
+  {
+    "name": "siska_kemahasiswaan_kegiatan-organisasi_lpj_index",
+    "url": "/siska/kemahasiswaan/kegiatan-organisasi/lpj/index",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kemahasiswaan_kegiatan-organisasi_lpj_index.png"
+  },
+  {
+    "name": "siska_kemahasiswaan_pelanggaran",
+    "url": "/siska/kemahasiswaan/pelanggaran",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kemahasiswaan_pelanggaran.png"
+  },
+  {
+    "name": "siska_kemahasiswaan_pelanggaran_create",
+    "url": "/siska/kemahasiswaan/pelanggaran/create",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kemahasiswaan_pelanggaran_create.png"
+  },
+  {
+    "name": "siska_kemahasiswaan_pengajuan",
+    "url": "/siska/kemahasiswaan/pengajuan",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kemahasiswaan_pengajuan.png"
+  },
+  {
+    "name": "siska_kemahasiswaan_prestasi",
+    "url": "/siska/kemahasiswaan/prestasi",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kemahasiswaan_prestasi.png"
+  },
+  {
+    "name": "siska_kewajiban",
+    "url": "/siska/kewajiban",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kewajiban.png"
+  },
+  {
+    "name": "siska_kewajiban_create",
+    "url": "/siska/kewajiban/create",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kewajiban_create.png"
+  },
+  {
+    "name": "siska_kkn",
+    "url": "/siska/kkn",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kkn.png"
+  },
+  {
+    "name": "siska_kkn_monitoring",
+    "url": "/siska/kkn/monitoring",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kkn_monitoring.png"
+  },
+  {
+    "name": "siska_kkn_monitoring_export",
+    "url": "/siska/kkn/monitoring/export",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kkn_monitoring_export.png"
+  },
+  {
+    "name": "siska_kkn_periode",
+    "url": "/siska/kkn/periode",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kkn_periode.png"
+  },
+  {
+    "name": "siska_kkn_periode_create",
+    "url": "/siska/kkn/periode/create",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kkn_periode_create.png"
+  },
+  {
+    "name": "siska_kkn_peserta",
+    "url": "/siska/kkn/peserta",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kkn_peserta.png"
+  },
+  {
+    "name": "siska_kkn_rekap-dosen",
+    "url": "/siska/kkn/rekap-dosen",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kkn_rekap-dosen.png"
+  },
+  {
+    "name": "siska_kkn_seminar",
+    "url": "/siska/kkn/seminar",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kkn_seminar.png"
+  },
+  {
+    "name": "siska_kkn_unggah-mandiri",
+    "url": "/siska/kkn/unggah-mandiri",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kkn_unggah-mandiri.png"
+  },
+  {
+    "name": "siska_kkn_unggah-mandiri-admin",
+    "url": "/siska/kkn/unggah-mandiri-admin",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_kkn_unggah-mandiri-admin.png"
+  },
+  {
+    "name": "siska_lpj",
+    "url": "/siska/lpj",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_lpj.png"
+  },
+  {
+    "name": "siska_monitoring",
+    "url": "/siska/monitoring",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_monitoring.png"
+  },
+  {
+    "name": "siska_monitoring_pelanggaran",
+    "url": "/siska/monitoring/pelanggaran",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_monitoring_pelanggaran.png"
+  },
+  {
+    "name": "siska_monitoring_prestasi",
+    "url": "/siska/monitoring/prestasi",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_monitoring_prestasi.png"
+  },
+  {
+    "name": "siska_organisasi",
+    "url": "/siska/organisasi",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_organisasi.png"
+  },
+  {
+    "name": "siska_organisasi_create",
+    "url": "/siska/organisasi/create",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_organisasi_create.png"
+  },
+  {
+    "name": "siska_persetujuan",
+    "url": "/siska/persetujuan",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_persetujuan.png"
+  },
+  {
+    "name": "siska_pkl_laporans",
+    "url": "/siska/pkl/laporans",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_pkl_laporans.png"
+  },
+  {
+    "name": "siska_pkl_logbooks",
+    "url": "/siska/pkl/logbooks",
+    "role": "admin",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_pkl_logbooks.png"
+  },
+  {
+    "name": "siska_pkl_monitoring",
+    "url": "/siska/pkl/monitoring",
+    "role": "admin",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_pkl_monitoring.png"
+  },
+  {
+    "name": "siska_pkl_monitoring_export",
+    "url": "/siska/pkl/monitoring/export",
+    "role": "admin",
+    "status": 0,
+    "error": "CRITICAL: page.goto: Download is starting\nCall log:\n  - navigating to \"https://sttw-dev.leolitgames.com/siska/pkl/monitoring/export\", waiting until \"domcontentloaded\"\n",
+    "screenshot": null
+  },
+  {
+    "name": "siska_pkl_registrations",
+    "url": "/siska/pkl/registrations",
+    "role": "admin",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_pkl_registrations.png"
+  },
+  {
+    "name": "siska_pkl_registrations_create",
+    "url": "/siska/pkl/registrations/create",
+    "role": "admin",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_pkl_registrations_create.png"
+  },
+  {
+    "name": "siska_pkl_rekap-dosen",
+    "url": "/siska/pkl/rekap-dosen",
+    "role": "admin",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_pkl_rekap-dosen.png"
+  },
+  {
+    "name": "siska_pkl_sidangs",
+    "url": "/siska/pkl/sidangs",
+    "role": "admin",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_pkl_sidangs.png"
+  },
+  {
+    "name": "siska_pkl_sidangs_create",
+    "url": "/siska/pkl/sidangs/create",
+    "role": "admin",
+    "status": 404,
+    "error": "WARNING: HTTP 404 Not Found",
+    "screenshot": "siska_pkl_sidangs_create.png"
+  },
+  {
+    "name": "siska_pkl_unggah-mandiri-admin",
+    "url": "/siska/pkl/unggah-mandiri-admin",
+    "role": "admin",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_pkl_unggah-mandiri-admin.png"
+  },
+  {
+    "name": "siska_skripsi_admin_ujians",
+    "url": "/siska/skripsi/admin/ujians",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_skripsi_admin_ujians.png"
+  },
+  {
+    "name": "siska_skripsi_dosen_bimbingan",
+    "url": "/siska/skripsi/dosen/bimbingan",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_skripsi_dosen_bimbingan.png"
+  },
+  {
+    "name": "siska_skripsi_dosen_logbooks",
+    "url": "/siska/skripsi/dosen/logbooks",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_skripsi_dosen_logbooks.png"
+  },
+  {
+    "name": "siska_skripsi_dosen_proposals",
+    "url": "/siska/skripsi/dosen/proposals",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_skripsi_dosen_proposals.png"
+  },
+  {
+    "name": "siska_skripsi_dosen_sidangs",
+    "url": "/siska/skripsi/dosen/sidangs",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_skripsi_dosen_sidangs.png"
+  },
+  {
+    "name": "siska_skripsi_monitoring",
+    "url": "/siska/skripsi/monitoring",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_skripsi_monitoring.png"
+  },
+  {
+    "name": "siska_skripsi_monitoring_export",
+    "url": "/siska/skripsi/monitoring/export",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_skripsi_monitoring_export.png"
+  },
+  {
+    "name": "siska_skripsi_proposals",
+    "url": "/siska/skripsi/proposals",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_skripsi_proposals.png"
+  },
+  {
+    "name": "siska_skripsi_proposals-admin",
+    "url": "/siska/skripsi/proposals-admin",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_skripsi_proposals-admin.png"
+  },
+  {
+    "name": "siska_skripsi_rekap-dosen",
+    "url": "/siska/skripsi/rekap-dosen",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_skripsi_rekap-dosen.png"
+  },
+  {
+    "name": "siska_skripsi_sidangs",
+    "url": "/siska/skripsi/sidangs",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_skripsi_sidangs.png"
+  },
+  {
+    "name": "siska_skripsi_unggah-mandiri-admin",
+    "url": "/siska/skripsi/unggah-mandiri-admin",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_skripsi_unggah-mandiri-admin.png"
+  },
+  {
+    "name": "siska_ta_admin_ujians",
+    "url": "/siska/ta/admin/ujians",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_ta_admin_ujians.png"
+  },
+  {
+    "name": "siska_ta_dosen_bimbingan",
+    "url": "/siska/ta/dosen/bimbingan",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_ta_dosen_bimbingan.png"
+  },
+  {
+    "name": "siska_ta_dosen_logbooks",
+    "url": "/siska/ta/dosen/logbooks",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_ta_dosen_logbooks.png"
+  },
+  {
+    "name": "siska_ta_dosen_proposals",
+    "url": "/siska/ta/dosen/proposals",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_ta_dosen_proposals.png"
+  },
+  {
+    "name": "siska_ta_dosen_sidangs",
+    "url": "/siska/ta/dosen/sidangs",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_ta_dosen_sidangs.png"
+  },
+  {
+    "name": "siska_ta_monitoring",
+    "url": "/siska/ta/monitoring",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_ta_monitoring.png"
+  },
+  {
+    "name": "siska_ta_monitoring_export",
+    "url": "/siska/ta/monitoring/export",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_ta_monitoring_export.png"
+  },
+  {
+    "name": "siska_ta_proposals",
+    "url": "/siska/ta/proposals",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_ta_proposals.png"
+  },
+  {
+    "name": "siska_ta_proposals-admin",
+    "url": "/siska/ta/proposals-admin",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_ta_proposals-admin.png"
+  },
+  {
+    "name": "siska_ta_rekap-dosen",
+    "url": "/siska/ta/rekap-dosen",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_ta_rekap-dosen.png"
+  },
+  {
+    "name": "siska_ta_sidangs",
+    "url": "/siska/ta/sidangs",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_ta_sidangs.png"
+  },
+  {
+    "name": "siska_ta_unggah-mandiri-admin",
+    "url": "/siska/ta/unggah-mandiri-admin",
+    "role": "admin",
+    "status": 403,
+    "error": "WARNING: HTTP 403 Forbidden",
+    "screenshot": "siska_ta_unggah-mandiri-admin.png"
+  },
+  {
+    "name": "siska_dosen_pkl_bimbingan",
+    "url": "/siska/dosen/pkl/bimbingan",
+    "role": "dosen",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_dosen_pkl_bimbingan.png"
+  },
+  {
+    "name": "siska_dosen_pkl_laporans",
+    "url": "/siska/dosen/pkl/laporans",
+    "role": "dosen",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_dosen_pkl_laporans.png"
+  },
+  {
+    "name": "siska_dosen_pkl_logbooks",
+    "url": "/siska/dosen/pkl/logbooks",
+    "role": "dosen",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_dosen_pkl_logbooks.png"
+  },
+  {
+    "name": "siska_dosen_pkl_sidangs",
+    "url": "/siska/dosen/pkl/sidangs",
+    "role": "dosen",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_dosen_pkl_sidangs.png"
+  },
+  {
+    "name": "siska_kkn_dpl_logbooks",
+    "url": "/siska/kkn/dpl/logbooks",
+    "role": "dosen",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_kkn_dpl_logbooks.png"
+  },
+  {
+    "name": "siska_kkn_dpl_nilai",
+    "url": "/siska/kkn/dpl/nilai",
+    "role": "dosen",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_kkn_dpl_nilai.png"
+  },
+  {
+    "name": "siska_kkn_dpl_participants",
+    "url": "/siska/kkn/dpl/participants",
+    "role": "dosen",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_kkn_dpl_participants.png"
+  },
+  {
+    "name": "siska_kkn_mahasiswa_logbook",
+    "url": "/siska/kkn/mahasiswa/logbook",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_kkn_mahasiswa_logbook.png"
+  },
+  {
+    "name": "siska_kkn_mahasiswa_logbook_create",
+    "url": "/siska/kkn/mahasiswa/logbook/create",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_kkn_mahasiswa_logbook_create.png"
+  },
+  {
+    "name": "siska_pkl_logbooks_create",
+    "url": "/siska/pkl/logbooks/create",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_pkl_logbooks_create.png"
+  },
+  {
+    "name": "siska_pkl_unggah-mandiri",
+    "url": "/siska/pkl/unggah-mandiri",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_pkl_unggah-mandiri.png"
+  },
+  {
+    "name": "siska_skripsi_logbooks",
+    "url": "/siska/skripsi/logbooks",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_skripsi_logbooks.png"
+  },
+  {
+    "name": "siska_skripsi_logbooks_create",
+    "url": "/siska/skripsi/logbooks/create",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_skripsi_logbooks_create.png"
+  },
+  {
+    "name": "siska_skripsi_proposals_create",
+    "url": "/siska/skripsi/proposals/create",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_skripsi_proposals_create.png"
+  },
+  {
+    "name": "siska_skripsi_sidangs_create",
+    "url": "/siska/skripsi/sidangs/create",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_skripsi_sidangs_create.png"
+  },
+  {
+    "name": "siska_skripsi_unggah-mandiri",
+    "url": "/siska/skripsi/unggah-mandiri",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_skripsi_unggah-mandiri.png"
+  },
+  {
+    "name": "siska_ta_logbooks",
+    "url": "/siska/ta/logbooks",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_ta_logbooks.png"
+  },
+  {
+    "name": "siska_ta_logbooks_create",
+    "url": "/siska/ta/logbooks/create",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_ta_logbooks_create.png"
+  },
+  {
+    "name": "siska_ta_proposals_create",
+    "url": "/siska/ta/proposals/create",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_ta_proposals_create.png"
+  },
+  {
+    "name": "siska_ta_sidangs_create",
+    "url": "/siska/ta/sidangs/create",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_ta_sidangs_create.png"
+  },
+  {
+    "name": "siska_ta_unggah-mandiri",
+    "url": "/siska/ta/unggah-mandiri",
+    "role": "mahasiswa",
+    "status": 200,
+    "error": null,
+    "screenshot": "siska_ta_unggah-mandiri.png"
+  }
+]

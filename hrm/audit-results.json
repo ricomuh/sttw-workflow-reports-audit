@@ -1,0 +1,929 @@
+[
+  {
+    "uri": "hrm/admin",
+    "name": "hrm.admin.dashboard",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin.png"
+  },
+  {
+    "uri": "hrm/admin/jadwal-kinerja",
+    "name": "hrm.admin.jadwal-kinerja.index",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_jadwal-kinerja.png"
+  },
+  {
+    "uri": "hrm/admin/jadwal-kinerja/create",
+    "name": "hrm.admin.jadwal-kinerja.create",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_jadwal-kinerja_create.png"
+  },
+  {
+    "uri": "hrm/admin/asesor/search-users",
+    "name": "hrm.admin.asesor.search-users",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [
+      {
+        "type": "NO_BREADCRUMB",
+        "msg": "No breadcrumbs found"
+      },
+      {
+        "type": "NO_SIDEBAR",
+        "msg": "No sidebar found"
+      }
+    ],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_asesor_search-users.png"
+  },
+  {
+    "uri": "hrm/admin/asesor",
+    "name": "hrm.admin.asesor.index",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_asesor.png"
+  },
+  {
+    "uri": "hrm/admin/asesor-assign",
+    "name": "hrm.admin.asesor.assign",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_asesor-assign.png"
+  },
+  {
+    "uri": "hrm/admin/dosen",
+    "name": "hrm.admin.dosen.index",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_dosen.png"
+  },
+  {
+    "uri": "hrm/admin/tendik",
+    "name": "hrm.admin.tendik.index",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_tendik.png"
+  },
+  {
+    "uri": "hrm/admin/presensi",
+    "name": "hrm.admin.presensi.index",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_presensi.png"
+  },
+  {
+    "uri": "hrm/admin/jenis-tendik",
+    "name": "hrm.admin.jenis-tendik.index",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_jenis-tendik.png"
+  },
+  {
+    "uri": "hrm/admin/jenis-tendik/create",
+    "name": "hrm.admin.jenis-tendik.create",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_jenis-tendik_create.png"
+  },
+  {
+    "uri": "hrm/admin/kuesioner",
+    "name": "hrm.admin.kuesioner.index",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_kuesioner.png"
+  },
+  {
+    "uri": "hrm/admin/kuesioner/create",
+    "name": "hrm.admin.kuesioner.create",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_kuesioner_create.png"
+  },
+  {
+    "uri": "hrm/admin/kuesioner-distribusi",
+    "name": "hrm.admin.kuesioner-distribusi.index",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_kuesioner-distribusi.png"
+  },
+  {
+    "uri": "hrm/admin/penugasan-atasan",
+    "name": "hrm.admin.penugasan-atasan.index",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_penugasan-atasan.png"
+  },
+  {
+    "uri": "hrm/admin/scoring-config",
+    "name": "hrm.admin.scoring-config.index",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_admin_scoring-config.png"
+  },
+  {
+    "uri": "hrm/portal",
+    "name": "hrm.portal.dashboard",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal.png"
+  },
+  {
+    "uri": "hrm/portal/profil",
+    "name": "hrm.portal.profil.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_profil.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/bimbingan",
+    "name": "hrm.portal.kinerja.bimbingan.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_bimbingan.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/bimbingan/create",
+    "name": "hrm.portal.kinerja.bimbingan.create",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_bimbingan_create.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/pengujian",
+    "name": "hrm.portal.kinerja.pengujian.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_pengujian.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/pengujian/create",
+    "name": "hrm.portal.kinerja.pengujian.create",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_pengujian_create.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/bahan-ajar",
+    "name": "hrm.portal.kinerja.bahan-ajar.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_bahan-ajar.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/bahan-ajar/create",
+    "name": "hrm.portal.kinerja.bahan-ajar.create",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_bahan-ajar_create.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/tugas-tambahan",
+    "name": "hrm.portal.kinerja.tugas-tambahan.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_tugas-tambahan.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/tugas-tambahan/create",
+    "name": "hrm.portal.kinerja.tugas-tambahan.create",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_tugas-tambahan_create.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/penunjang",
+    "name": "hrm.portal.kinerja.penunjang.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_penunjang.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/penunjang/create",
+    "name": "hrm.portal.kinerja.penunjang.create",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_penunjang_create.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/penghargaan",
+    "name": "hrm.portal.kinerja.penghargaan.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_penghargaan.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/penghargaan/create",
+    "name": "hrm.portal.kinerja.penghargaan.create",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_penghargaan_create.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/pengajaran",
+    "name": "hrm.portal.kinerja.pengajaran.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_pengajaran.png"
+  },
+  {
+    "uri": "hrm/portal/presensi-cico",
+    "name": "hrm.portal.presensi-cico.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_presensi-cico.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/penelitian",
+    "name": "hrm.portal.kinerja.penelitian.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_penelitian.png"
+  },
+  {
+    "uri": "hrm/portal/kinerja/pengabdian",
+    "name": "hrm.portal.kinerja.pengabdian.index",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_kinerja_pengabdian.png"
+  },
+  {
+    "uri": "hrm/portal/laporan/lkd",
+    "name": "hrm.portal.laporan.lkd",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_laporan_lkd.png"
+  },
+  {
+    "uri": "hrm/portal/laporan/ikd",
+    "name": "hrm.portal.laporan.ikd",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_laporan_ikd.png"
+  },
+  {
+    "uri": "hrm/portal/laporan/kehadiran",
+    "name": "hrm.portal.laporan.kehadiran",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_laporan_kehadiran.png"
+  },
+  {
+    "uri": "hrm/portal/laporan/skor",
+    "name": "hrm.portal.laporan.skor",
+    "role": "dosen",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_portal_laporan_skor.png"
+  },
+  {
+    "uri": "hrm/tendik",
+    "name": "hrm.tendik.dashboard",
+    "role": "tendik",
+    "email": "rina.tendik@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_tendik.png"
+  },
+  {
+    "uri": "hrm/tendik/profil",
+    "name": "hrm.tendik.profil.index",
+    "role": "tendik",
+    "email": "rina.tendik@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_tendik_profil.png"
+  },
+  {
+    "uri": "hrm/tendik/kinerja/pelayanan",
+    "name": "hrm.tendik.kinerja.pelayanan.index",
+    "role": "tendik",
+    "email": "rina.tendik@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_tendik_kinerja_pelayanan.png"
+  },
+  {
+    "uri": "hrm/tendik/kinerja/pelayanan/create",
+    "name": "hrm.tendik.kinerja.pelayanan.create",
+    "role": "tendik",
+    "email": "rina.tendik@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_tendik_kinerja_pelayanan_create.png"
+  },
+  {
+    "uri": "hrm/tendik/kinerja/tugas-tambahan",
+    "name": "hrm.tendik.kinerja.tugas-tambahan.index",
+    "role": "tendik",
+    "email": "rina.tendik@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_tendik_kinerja_tugas-tambahan.png"
+  },
+  {
+    "uri": "hrm/tendik/kinerja/tugas-tambahan/create",
+    "name": "hrm.tendik.kinerja.tugas-tambahan.create",
+    "role": "tendik",
+    "email": "rina.tendik@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_tendik_kinerja_tugas-tambahan_create.png"
+  },
+  {
+    "uri": "hrm/tendik/kinerja/penunjang",
+    "name": "hrm.tendik.kinerja.penunjang.index",
+    "role": "tendik",
+    "email": "rina.tendik@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_tendik_kinerja_penunjang.png"
+  },
+  {
+    "uri": "hrm/tendik/kinerja/penunjang/create",
+    "name": "hrm.tendik.kinerja.penunjang.create",
+    "role": "tendik",
+    "email": "rina.tendik@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_tendik_kinerja_penunjang_create.png"
+  },
+  {
+    "uri": "hrm/tendik/kinerja/penghargaan",
+    "name": "hrm.tendik.kinerja.penghargaan.index",
+    "role": "tendik",
+    "email": "rina.tendik@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": true,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_tendik_kinerja_penghargaan.png"
+  },
+  {
+    "uri": "hrm/tendik/kinerja/penghargaan/create",
+    "name": "hrm.tendik.kinerja.penghargaan.create",
+    "role": "tendik",
+    "email": "rina.tendik@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": false,
+      "hasTableRows": false,
+      "populated": null
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_tendik_kinerja_penghargaan_create.png"
+  },
+  {
+    "uri": "hrm/tendik/presensi-cico",
+    "name": "hrm.tendik.presensi-cico.index",
+    "role": "tendik",
+    "email": "rina.tendik@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": false,
+      "populated": false
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_tendik_presensi-cico.png"
+  },
+  {
+    "uri": "hrm/laporan",
+    "name": "hrm.laporan.dashboard",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_laporan.png"
+  },
+  {
+    "uri": "hrm/laporan/dosen",
+    "name": "hrm.laporan.dosen",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_laporan_dosen.png"
+  },
+  {
+    "uri": "hrm/laporan/tendik",
+    "name": "hrm.laporan.tendik",
+    "role": "waket2",
+    "email": "waket2@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_laporan_tendik.png"
+  },
+  {
+    "uri": "hrm/asesor",
+    "name": "hrm.asesor.dashboard",
+    "role": "asesor",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_asesor.png"
+  },
+  {
+    "uri": "hrm/asesor/rekap",
+    "name": "hrm.asesor.rekap",
+    "role": "asesor",
+    "email": "budi.santoso@sttw.ac.id",
+    "status": 200,
+    "errors": [],
+    "layoutIssues": [],
+    "dataCheck": {
+      "hasNoData": false,
+      "hasTable": true,
+      "hasTableRows": true,
+      "populated": true
+    },
+    "hasErrors": false,
+    "screenshot": "hrm_asesor_rekap.png"
+  }
+]
